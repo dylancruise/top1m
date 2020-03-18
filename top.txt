@@ -1,0 +1,10 @@
+google.com
+microsoft.com
+www.google.com
+windowsupdate.com
+facebook.com
+ctldl.windowsupdate.com
+data.microsoft.com
+safebrowsing.googleapis.com
+live.com
+doubleclick.net
